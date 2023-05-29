@@ -1,4 +1,7 @@
 {
-  "user": "miguelk99",
-  "pass": "miguelk9"
+  "user": [
+    {"username": miguelk99, "pass": miguelk9},
+    {"username": godinhok99, "pass": godinhok9},
+  ]
+  
 }
